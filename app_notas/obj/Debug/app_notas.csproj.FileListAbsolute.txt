@@ -1,0 +1,17 @@
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\bin\Debug\app_notas.exe.config
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\bin\Debug\app_notas.exe
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\bin\Debug\app_notas.pdb
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\obj\Debug\app_notas.csprojResolveAssemblyReference.cache
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\obj\Debug\app_notas.Form1.resources
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\obj\Debug\app_notas.Properties.Resources.resources
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\obj\Debug\app_notas.csproj.GenerateResource.Cache
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\obj\Debug\app_notas.exe
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\obj\Debug\app_notas.pdb
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\bin\Debug\app_notas.exe.config
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\bin\Debug\app_notas.exe
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\bin\Debug\app_notas.pdb
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\obj\Debug\app_notas.Form1.resources
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\obj\Debug\app_notas.Properties.Resources.resources
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\obj\Debug\app_notas.csproj.GenerateResource.Cache
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\obj\Debug\app_notas.exe
+C:\Users\alan_\Documents\Visual Studio 2017\Projects\app_notas\app_notas\obj\Debug\app_notas.pdb
